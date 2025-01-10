@@ -4,9 +4,9 @@
      
      * [Home Life](foreword/java.md)
      
-     * [Cosmetics](foreword/java.md)
+     * [Cosmetics](foreword/Brand.md)
      
-     * [Digital Products](foreword/Brand.md)
+     * [Digital Products](foreword/java.md)
 
      * [1223](foreword/abc.md)
 
