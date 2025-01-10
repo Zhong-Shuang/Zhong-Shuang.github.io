@@ -4,7 +4,7 @@
      
      * [Home Life](foreword/java.md)
      
-     * [Cosmetics](foreword/Jelly Blush Stick .md)
+     * [Cosmetics](foreword/JellyBlushStick.md)
      
      * [Digital Products](foreword/java.md)
 
