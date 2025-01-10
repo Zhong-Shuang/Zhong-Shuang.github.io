@@ -1,4 +1,4 @@
 
   # zhongshuang
-  [Get Started](foreword/Brand.md) 
-  [开始阅读](foreword/Brand.md)
+  [Get Started](foreword/java.md) 
+  [开始阅读](foreword/java.md)
